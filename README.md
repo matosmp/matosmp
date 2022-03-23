@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/matosmp">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=matosmp&theme=blue-green"/> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosmp&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=matosmp&theme=blue-green"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosmp&layout=compact&langs_count=7&theme=blue-green"/>
     
 </div>
   
