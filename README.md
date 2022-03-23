@@ -2,13 +2,15 @@
 <div>  	
   <a href = "mailto:matos.fernandomp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matosfernandomp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
 </div><BR>
 
 
 <div align="center">
   <a href="https://github.com/matosmp">
-  <img height="220em"  src="https://github-readme-stats.vercel.app/api?username=matosmp&theme=blue-green"/> 
-  <img height="220em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosmp&theme=blue-green"/> 
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=matosmp&theme=blue-green"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosmp&layout=compact&langs_count=7&theme=blue-green"/>
     
 </div>
   
